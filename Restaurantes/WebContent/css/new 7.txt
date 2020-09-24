@@ -1,0 +1,48 @@
+body{
+	color: #888;
+	font-family: Helvetica, Verdana;
+	font-size: 1em;
+	max-width: 100%;
+}
+
+
+<img alt="" src="images/logofoot.png" />
+
+#slider{
+    
+    background: #eaeaea;
+    display: block;
+    width: 100%;
+}
+
+#galeria-inicio{
+      display: block;
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	width: 80%;
+}
+
+    box-shadow: 0 0.3em 2px #DFDBDB;
+	
+		<section id="contenido">
+		<article id="galeria">
+			<h3 id="tit">HERRAJES PARA TODO TIPO DE MUEBLES</h3>
+			<br>
+			<div id="imc">
+				<h3>Cocina</h3>
+				<a href="catalogo.html"><img id="im1" src="images/cocina.png"
+					alt="" /></a>
+			</div>
+			<div id="imc">
+				<h3>Closets</h3>
+				<a href="catalogo.html"><img id="im2" src="images/closet.png"
+					alt="" /></a>
+			</div>
+			<div id="imc">
+				<h3>Oficina</h3>
+				<a href="catalogo.html"><img id="im3" src="images/oficina.png"
+					alt="" /></a>
+			</div>
+		</article>
+	</section>
